@@ -39,9 +39,6 @@ The analysis identifies key variables significantly impacting the demand for sha
 - Language - Python
 - Libraries – Numpy, Pandas, Matplotlib, Seaborn, sklearn, statsmodels
 
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 This project was inspired by UpGrad IITB Programme as case study for the AI/ML course.
 
